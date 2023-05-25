@@ -1,7 +1,7 @@
 
 # GROUPOMANIA
 
-
+<img width="1261" alt="Screenshot 2023-05-25 at 20 45 08" src="https://github.com/Ayushch12/Groupomania-master/assets/96380226/01dcde68-aab0-4fc3-98a1-38d129d7644a">
 
 
 ## Prerequisite
