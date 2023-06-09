@@ -31,7 +31,7 @@ npm install
 
 nodemon server
 
-The server must be running on http://localhost:3000.
+The server must  running on http://localhost:3000.
  
 ```
 
