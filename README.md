@@ -1,7 +1,14 @@
 
 # GROUPOMANIA
 
-<img width="1261" alt="Screenshot 2023-05-25 at 20 45 08" src="https://github.com/Ayushch12/Groupomania-master/assets/96380226/01dcde68-aab0-4fc3-98a1-38d129d7644a">
+Login and Register : 
+  
+<img width="1268" alt="Capture d’écran 2023-07-11 à 23 01 01" src="https://github.com/Ayushch12/Groupomania-master/assets/96380226/74aab4ab-6ece-4496-9a54-a195b85f9ef8">
+
+Main Page : 
+
+<img width="1268" alt="Capture d’écran 2023-07-11 à 22 59 49" src="https://github.com/Ayushch12/Groupomania-master/assets/96380226/1066a637-4a9a-4a4b-8e0f-71e73df6fe26">
+
 
 
 ## Prerequisite
