@@ -43,7 +43,7 @@ npm cd Frontend
 
 npm install
 
-nodemon server
+npm run serve
 
 The server must be running on http://localhost:8080.
  
