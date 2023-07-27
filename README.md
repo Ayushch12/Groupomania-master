@@ -15,8 +15,8 @@ Page d'accueil :
 
 
 ```bash
-You need to install Node and npm locally on your computer.
-Make sure you have Vue.cli installed on your computer (npm install -g @vue/cli')
+Vous devez installer Node et npm localement sur votre ordinateur.
+Assurez-vous que Vue.cli est installé sur votre ordinateur (npm install -g @vue/cli')
 ```
 
 ## Installation
@@ -30,7 +30,7 @@ Make sure you have Vue.cli installed on your computer (npm install -g @vue/cli')
 
 ## Deployment For BACKEND
 
-To deploy this project run :
+Pour déployer ce projet, exécutez :
 
 ```bash
 npm cd backend
@@ -45,7 +45,7 @@ The server must  running on http://localhost:3000.
 
 ## Deployment For FRONTEND
 
-To deploy this project run 
+Pour déployer ce projet, exécutez :
 
 ```bash
 npm cd Frontend
