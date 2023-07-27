@@ -13,10 +13,10 @@ Page d'accueil :
 
 ## Prerequisite
 
+
 ```bash
- 1>You need to install Node and npm locally on your computer.
- 2>Make sure you have Vue.cli installed on your computer (npm install -g @vue/cli')
- 
+You need to install Node and npm locally on your computer.
+ Make sure you have Vue.cli installed on your computer (npm install -g @vue/cli')
 ```
 
 ## Installation
