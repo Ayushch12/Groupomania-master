@@ -28,8 +28,10 @@ Page d'accueil :
  2>Open a terminal
  
 ```
-# Backend
 
+## Deployment For BACKEND
+
+To deploy this project run :
 
 ```bash
 npm cd backend
@@ -39,11 +41,12 @@ npm install
 nodemon server
 
 The server must  running on http://localhost:3000.
- 
 ```
 
-## Frontend
 
+## Deployment For FRONTEND
+
+To deploy this project run 
 
 ```bash
 npm cd Frontend
@@ -53,14 +56,9 @@ npm install
 npm run serve
 
 The server must be running on http://localhost:8080.
- 
 ```
 
-
-
-
-
-## Datebase
+## DateBase
 
 MYSQL
 
