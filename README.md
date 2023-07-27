@@ -16,15 +16,15 @@ Page d'accueil :
 
 ```bash
 You need to install Node and npm locally on your computer.
- Make sure you have Vue.cli installed on your computer (npm install -g @vue/cli')
+Make sure you have Vue.cli installed on your computer (npm install -g @vue/cli')
 ```
 
 ## Installation
 
 
 ```bash
- 1>Open a terminal
- 2>Open a terminal
+ Open a terminal
+ Open a terminal
  
 ```
 
