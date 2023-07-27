@@ -57,7 +57,7 @@ npm run serve
 The server must be running on http://localhost:8080.
 ```
 
-## DateBase
+## Base de données
 
 MYSQL
 
