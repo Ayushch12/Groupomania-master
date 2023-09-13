@@ -1,7 +1,7 @@
 
 # GROUPOMANIE
 
-Se connecter et s'inscrire :
+Se connecter et s'inscrire:
   
 <img width="1268" alt="Capture d’écran 2023-07-11 à 23 01 01" src="https://github.com/Ayushch12/Groupomania-master/assets/96380226/74aab4ab-6ece-4496-9a54-a195b85f9ef8">
 
